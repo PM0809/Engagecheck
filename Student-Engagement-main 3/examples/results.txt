@@ -1,0 +1,3 @@
+attentive : 88.71%
+small-distraction : 68.67%
+large-distraction: 15.69%

@@ -1,0 +1,11 @@
+#choose input type from ('video','image_seq','NW_image_seq','live_camera')
+input_type: live_camera
+
+#(change if you want) the minimum engagement required for attendance 
+# here it's 50%
+attendance_threshold : 0.60
+
+#(change if you want) the allowable time ratio (of the total lecture time)
+# for students to be laughing or smiling without affecting their engagement
+# here it's 2%
+happy_threshold: 0.02
